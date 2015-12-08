@@ -1,0 +1,25 @@
+{
+  "name": "MeanMapsApp",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Ramon Bezerra <ramonbezerra90@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.8",
+    "angularjs-geolocation": "~0.1.1",
+    "bootstrap": "~3.3.6",
+    "modernizr": "~3.2.0",
+    "holderjs": "~2.9.0"
+  }
+}
